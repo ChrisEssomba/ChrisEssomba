@@ -41,8 +41,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=snowflake" height="60" alt="snowflake logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="gcp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=matplotlib" height="60" alt="matplotlib logo"  />
